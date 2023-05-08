@@ -2,7 +2,7 @@
 
 All the code for the automated monotub - arduino and google apps script. This project was for the 13th National Level Techno Exhibition held at Dr. Ambedkar Institute of Technology, and was presented on 13th April, 2023 which won us the third place. 
 
-Revolutionizing Mushroom Cultivation: The Benefits of an Automated Monotub
+# Revolutionizing Mushroom Cultivation: The Benefits of an Automated Monotub
 
 Mushrooms are a valuable source of nutrition, with many species offering numerous health benefits. However, traditional mushroom cultivation can be a challenging and time-consuming process, requiring careful monitoring of temperature, humidity, and CO2 levels. To overcome these challenges, we have developed an automated cultivation box incorporating Arduino microcontroller that streamlines the mushroom growing process while ensuring optimal conditions for growth under any given external climatic conditions.
 
