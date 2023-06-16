@@ -8,7 +8,6 @@ Mushrooms are a valuable source of nutrition, with many species offering numerou
 
 Our cultivation box incorporates CO2, temperature, and humidity sensors that are controlled by an Arduino microcontroller. This microcontroller constantly monitors and adjusts the environment within the box to create the ideal growing conditions for mushrooms. By controlling these factors, our box can minimize the risk of contamination and ensure that mushrooms grow quickly and uniformly. The dark phase and fruiting phase of the mushroom growing process can be accommodated in the same box while in traditional methods it’s grown separately. To test the effectiveness of our cultivation box, we grew oyster mushrooms such as pink and white. These mushrooms are a popular choice for home cultivation due to their ease of growing and excellent flavor. We found that our automated cultivation box provided consistent and reliable results, producing high-quality mushrooms with minimal effort.
 
-# Block diagram of the electronics 
 ![BLOCK DIAGRAM](https://github.com/Amruthamsh/Automated-Monotub/assets/32568328/d1393a13-4224-477c-9e9a-279b85408635)
 
 First Participant: Gowtham Bhat C G, Department of CSE, Dr Ambedkar Institute of Technology
