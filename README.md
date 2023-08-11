@@ -1,6 +1,6 @@
 # Automated-Monotub
 
-All the code for the automated monotub - arduino and google apps script. This project was for the 13th National Level Techno Exhibition held at Dr. Ambedkar Institute of Technology, and was presented on 13th April, 2023 which won us the third place. 
+All the code for the automated monotub (arduino and google apps script). This project was for the 13th National Level Techno Exhibition held at Dr. Ambedkar Institute of Technology, and was presented on 13th April, 2023 which won us the third place. 
 
 # Revolutionizing Mushroom Cultivation: The Benefits of an Automated Monotub
 
